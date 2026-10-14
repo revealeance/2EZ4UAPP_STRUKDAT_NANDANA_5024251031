@@ -1,6 +1,6 @@
-# app.py
-from frontend.ui import buka_jendela
+from frontend.ui import Aplikasi2EZ4U
 
-# Jalankan aplikasinya
+# blok utama ini akan menyalakan jendela aplikasi saat mengetik python app.py di terminal
 if __name__ == "__main__":
-    buka_jendela()
+    app = Aplikasi2EZ4U()
+    app.mainloop()
