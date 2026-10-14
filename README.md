@@ -30,6 +30,7 @@
         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   :::::::::::::::          
 
     2EZ4U Food Delivery Engine - Proyek Struktur Data dan Algoritma - Oleh Nandana Moriel (5024251031)
+    PROGRESS : M1 - M2 - M3
 ---------------------------------------------------------
 Proyek ini adalah implementasi sistem backend untuk layanan pesan antar makanan. Semua struktur data dibangun secara manual dari awal menggunakan Python murni tanpa menggunakan fungsi instan bawaan seperti dict, set, sorted(), .sort(), atau list.append(). Antarmuka aplikasi dibuat menggunakan Tkinter untuk memperlihatkan alur kerja sistem.
 
@@ -78,7 +79,6 @@ Data di bawah menunjukkan jumlah perbandingan yang dieksekusi oleh program pada 
   Insertion Sort O(n^2) mengeksekusi 61.595.520 perbandingan
   Merge Sort O(n log n) mengeksekusi 204.866 perbandingan
 
-Grafik visualisasi pertumbuhan beban perbandingan ini dapat dilihat pada file grafik_m3.png di dalam repositori.
 
 Cara Menjalankan Program
 ---------------------------------------------------------
